@@ -6,5 +6,3 @@ Sursa: [igsu.ro](https://www.igsu.ro/Resources/Documente_Generale/Situatia_adapo
 Format alternativ: [CSV](adaposturi.csv)
 
 ![Vault Romanian Boy](vault-boy.png)
-
-
