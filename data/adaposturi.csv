@@ -1,4 +1,3 @@
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1,AB,Alba Iulia,"Bloc ANL – str. Arieşului, nr. 235, bl. E 1",46.084486,23.582668
 2,AB,Alba Iulia,"Spitalul Judeţean de Urgenţă Alba – B-dul. Revoluţiei, nr. 2",46.071409,23.557064
 3,AB,Alba Iulia,"S.C. SEWS-R SRL Romania – Str. Alexandru Ioan Cuza, nr. 28b",46.094252,23.600770
@@ -74,7 +73,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 73,AG,Pitești,"Str. I.C. Brătianu, bloc A2, sc. A",44.857624,24.876704
 74,AG,Pitești,"Str. I.C. Brătianu, bloc A4, sc. A",44.857934,24.876905
 75,AG,Pitești,"Str. I.C. Brătianu, bloc A9, sc. A",44.857561,24.877773
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 76,AG,Pitești,"Str. I.C. Brătianu, bloc A8, sc. A",44.857444,24.877506
 77,AG,Pitești,"Str. Transilvania, nr. 1, bloc D3, sc. F",44.850041,24.869392
 78,AG,Pitești,"Str. Paltinului, nr. 20, bl. D14, sc. A",44.873278,24.839381
@@ -151,7 +149,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 149,AG,Costești,"Aleea Gării, nr. 8",44.667884,24.877774
 150,AG,Mioveni,"Bulevardul Dacia, nr. 1",44.945983,24.918161
 151,AG,Mioveni,"Strada Câmpului, nr. 1",44.953456,24.972350
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 152,AG,Mioveni,"Strada Câmpului, nr. 1",44.953456,24.972350
 153,AG,Mioveni,"Strada Uzinei, nr. 1-3",44.945083,24.930853
 154,AG,Mioveni,"Strada Uzinei, nr. 1-3",44.945431,24.930589
@@ -228,7 +225,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 225,AR,Arad,"str.Voinicilor, nr.41, Bl.509",46.171412,21.353597
 226,AR,Arad,"str.Zalău, nr.7, Bl.517",46.170554,21.351757
 227,AR,Arad,"str.Sighișoarei, nr.3, Bl.530, Sc.A",46.170752,21.351334
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 228,AR,Arad,"str.Sighișoarei, nr.2, Bl.539, Sc.B",46.170590,21.350523
 229,AR,Arad,"str.Batiștei, nr.1, Bl.556, Sc.B",46.168600,21.349717
 230,AR,Arad,"str.Nucet, nr.8, Bl.563, Sc.A",46.168892,21.350118
@@ -301,7 +297,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 297,BC,Bacău,"Str.Electricienilor, Bl. 2,Sc.D",46.532887,26.922256
 298,BC,Bacău,"Str. Făgăraș Bl.8, sc.A",46.540103,26.912448
 299,BC,Bacău,"str. Făgăraş, nr. 8, sc. B",46.540103,26.912448
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 300,BC,Bacău,"Str. Făgăraș Bl.25, sc.A",46.541924,26.913481
 301,BC,Bacău,"Str. Făgăraș Bl.6, sc.A",46.540223,26.913055
 302,BC,Bacău,"Str. Făgăraș Bl.6, sc.B",46.540223,26.913056
@@ -378,7 +373,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 373,BC,Bacău,Str. Tipografilor nr.18,46.573158,26.898946
 374,BC,Bacău,Str. Teiului 9B sc.A,46.542655,26.913890
 375,BC,Bacău,Str. Teiului 9A sc.A,46.542655,26.913890
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 376,BC,Buhuși,Str. T. Vladimirescu nr.206,46.718550,26.694120
 377,BC,Bacău,"str. Teiului, nr. 9 C , sc. A",46.542655,26.913890
 378,BC,Bacău,"Str. Tipografilor Bl.12, sc.A",46.572580,26.898550
@@ -454,7 +448,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 448,BH,Oradea,"str. Oneştilor nr. 82, bl.R61",47.064168,21.912023
 449,BH,Oradea,"str. Calea Aradului, nr.87(Oradea Shopping City)",47.042769,21.899950
 450,BH,Oradea,"str. Kiev, nr.3",47.038478,21.944644
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 451,BH,Oradea,"str. I. H. Rădulescu, nr.19",47.056898,21.945080
 452,BH,Oradea,"str. Sântandreiului, nr.3",47.048386,21.895790
 453,BH,Oradea,"str. Aleea Ştrandului, nr.2",47.054544,21.948666
@@ -530,7 +523,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 523,BN,Bistrița,"Str. Subcetate, bl. 5 sc. B",47.148444,24.485306
 524,BN,Bistrița,"Str. Subcetate, bl. 6 sc. A",47.148444,24.484917
 525,BN,Bistrița,"Str. Subcetate, bl. 6 sc. B",47.148194,24.484917
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 526,BN,Bistrița,"Str. Subcetate, bl. 6 sc. C",47.148083,24.485250
 527,BN,Bistrița,"Str. Subcetate, bl. 7 sc. A",47.148222,24.486139
 528,BN,Bistrița,"Str. Subcetate, bl. 7 sc. B",47.148028,24.485917
@@ -607,7 +599,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 599,BT,Mun. Botoşani,"Str. Elie Radu, nr.8, dr.",47.745349,26.644126
 600,BT,Mun. Botoşani,"Str. Elie Radu, nr.12, stg.",47.744982,26.643765
 601,BT,Mun. Botoşani,"Str. Elie Radu, nr.12, dr.",47.744982,26.643765
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 602,BT,Mun. Botoşani,"Str. Elie Radu, nr.26, stg.",47.744544,26.643967
 603,BT,Mun. Botoşani,"Str. Elie Radu, nr.26, dr.",47.744544,26.643967
 604,BT,Mun. Botoşani,"Str. Elie Radu, nr.34, stg.",47.744112,26.644513
@@ -682,7 +673,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 673,BR,Brăila,"Calea Călăraşilor, bl. A6, sc. 1, cartier Viziru III, municipiul Brăila",45.250663,27.953335
 674,BR,Brăila,"Calea Călăraşilor, bl. A7, sc. 1, cartier Viziru III, municipiul Brăila",45.250872,27.953752
 675,BR,Brăila,"Calea Călăraşilor, bl. A8, sc. 1, cartier Viziru III, municipiul Brăila",45.251333,27.953944
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 676,BR,Brăila,"str. Şcolilor, bl. AB1, sc. 2, cartier Obor, municipiul Brăila",45.264361,27.952667
 677,BR,Brăila,"str. Şcolilor, bl. AB1, sc. 3, cartier Obor, municipiul Brăila",45.264444,27.952889
 678,BR,Brăila,"str. Pietăţii, bl. AB2, sc. 2, cartier Obor, municipiul Brăila",45.264903,27.952152
@@ -752,7 +742,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 742,BR,Brăila,"str. Oborului, bl. AC2, sc. 4, cartier Obor, municipiul Brăila",45.265056,27.953694
 743,BR,Brăila,"str. Oborului, bl. AB3, sc. 1, cartier Obor, municipiul Brăila",45.265639,27.953083
 744,BR,Brăila,"str. Anton Pann, bl. AB3, sc. 4, cartier Obor, municipiul Brăila",45.265809,27.952782
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 745,BR,Brăila,"str. Oborului, bl. AB5, sc. 2, cartier Obor, municipiul Brăila",45.265006,27.953141
 746,BR,Brăila,"str. Oborului, bl. AB5, sc. 3, cartier Obor, municipiul Brăila",45.264922,27.952730
 747,BR,Brăila,"str. Anton Pann, bl. AF3, sc. 2, cartier Obor, municipiul Brăila",45.266590,27.955947
@@ -816,7 +805,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 805,BV,Brașov,str. M.cel Bătrân nr.43 sc.A,45.658055,25.600334
 806,BV,Brașov,str. M.cel Bătrân nr.43 sc.B,45.658055,25.600334
 807,BV,Brașov,str. M.cel Bătrân nr. 45 sc.C,45.657126,25.600223
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 808,BV,Brașov,str. M.cel Bătrân nr. 45 sc.D,45.657354,25.600069
 809,BV,Brașov,str. M.cel Bătrân nr.47 sc.A,45.657861,25.599567
 810,BV,Brașov,str. M.cel Bătrân nr.47 sc.B,45.357979,25.599670
@@ -893,7 +881,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 881,BV,Brașov,bd. Ştefan cel Mare nr.18sc.C,45.639699,25.633598
 882,BV,Brașov,bd. Ştefan cel Mare nr.19sc.A,45.640533,25.633652
 883,BV,Brașov,bd. Ştefan cel Mare nr.19sc.B,45.640771,25.633644
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 884,BV,Brașov,bd. Ştefan cel Mare nr.19sc.C,45.640996,25.633634
 885,BV,Brașov,bd. Ştefan cel Mare nr.20sc.A,45.639216,25.634295
 886,BV,Brașov,bd. Ştefan cel Mare nr.20sc.B,45.639466,25.634258
@@ -968,7 +955,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 955,BV,Făgăraș,"Str. Gării nr.2, sc.B",45.831023,24.975701
 956,BV,Făgăraș,"SC Fabrica de Pulberi SRL - str.Combinatului, nr.14",45.805068,24.958264
 957,BV,Făgăraș,"SC Fabrica de Pulberi SRL - str.Combinatului, nr.14",45.805265,25.963717
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 958,BV,Făgăraș,SC Nitroporos SRL - str. Combinatului nr. 1,45.820979,24.967316
 959,BV,Făgăraș,SC Nitroporos SRL - str. Combinatului nr. 1,45.821153,24.967361
 960,BV,Făgăraș,"Casa Maria - Complex Servicii Făgăraş, str. Combinatului nr. 8",45.824804,24.963804
@@ -1045,7 +1031,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1031,BZ,Buzău,"Bloc 4, Scara B, cartier Micro V, Strada Victoriei",45.147778,26.835703
 1032,BZ,Buzău,"Bloc 4, Scara C, cartier Micro V, Strada Victoriei",45.147778,26.835703
 1033,BZ,Buzău,"Bloc 6, Scara A, cartier Micro V, Aleea Jupiter",45.147374,26.836346
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1034,BZ,Buzău,"Bloc 6, Scara B, cartier Micro V, Aleea Jupiter",45.147374,26.836346
 1035,BZ,Buzău,"Bloc 6, Scara C, cartier Micro V, Aleea Jupiter",45.147374,26.836346
 1036,BZ,Buzău,"Bloc J 1, cartier Broşteni, Aleea Crăițelor",45.150811,26.834962
@@ -1106,7 +1091,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1091,CS,Reșița,"Str. Gratz, nr.5, sc.1",45.299194,21.878306
 1092,CS,Reșița,"Str. Gratz, nr.3, sc.3",45.299361,21.878861
 1093,CS,Reșița,"Str. George Enescu nr. 2, F1, Sc.1",45.298694,21.879917
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1094,CS,Reșița,"Str. George Enescu nr. 2, F1, Sc.2",45.298694,21.879917
 1095,CS,Reșița,"Str. George Enescu nr. 4, Sc.1",45.298417,21.879183
 1096,CS,Reșița,Str. George Enescu nr. 8 sc.3,45.297861,21.877861
@@ -1182,7 +1166,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1166,CJ,Cluj-Napoca,Aleea Vidraru nr. 17-19,46.754802,23.561714
 1167,CJ,Cluj-Napoca,Aleea Moldoveanu nr.5,46.753381,23.562785
 1168,CJ,Cluj-Napoca,Aleea Tarniţa nr. 7,46.762801,23.564882
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1169,CJ,Cluj-Napoca,Aleea Firiza nr.4,46.762130,23.563691
 1170,CJ,Cluj-Napoca,Str. Câmpului nr.40 sc. 1,46.757278,23.563004
 1171,CJ,Cluj-Napoca,Str. Câmpului nr.40 sc. 2,46.757103,23.562978
@@ -1259,7 +1242,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1242,CJ,Cluj-Napoca,Calea Dorobanților nr. 40,46.772082,23.604374
 1243,CJ,Cluj-Napoca,Str. Grigore Alexandrescu nr. 47,46.754697,23.545689
 1244,CJ,Cluj-Napoca,Calea Mănăștur nr. 3-5,46.762064,23.570553
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1245,CJ,Cluj-Napoca,Str. Traian Vuia 149-151 terminal – plecări,46.782526,23.689641
 1246,CJ,Cluj-Napoca,Str. Traian Vuia 149-151 terminal– sosiri,46.782332,23.688199
 1247,CJ,Cluj-Napoca,Str. Gheorghe Dima nr. 5A,46.752210,23.575536
@@ -1336,7 +1318,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1318,CJ,Câmpia-Turzii,Str. Parcului nr. 10,46.544739,23.888812
 1319,CJ,Huedin,Str. Avram Iancu nr. 41,46.858108,23.024444
 1320,CJ,Huedin,Str. Horea nr.1,46.864334,23.025099
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1321,CJ,Huedin,Str. Horea nr.5,46.864653,23.024840
 1322,CJ,Huedin,Str. Republicii nr. 39-42,46.863257,23.028344
 1323,CJ,Florești,Str. Avram Iancu nr. 170,46.743424,23.485641
@@ -1413,7 +1394,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1394,CT,CONSTANȚA,"Str. Zefirului, bl.OB 4",44.140687,28.630497
 1395,CT,CONSTANȚA,"Str. Zefirului, bl.OB 5",44.140331,28.629315
 1396,CT,CONSTANȚA,"Str. Zefirului, bl.OB 6",44.140328,28.629755
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1397,CT,CONSTANȚA,"Str. Zefirului, bl.OB 7",44.140294,28.630162
 1398,CT,CONSTANȚA,"Str. Zefirului, bl.OB 8",44.140290,28.630602
 1399,CT,CONSTANȚA,"Str. Zefirului, bl.OB 9",44.140257,28.631010
@@ -1490,7 +1470,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1470,DB,Târgovişte,Cinema Independenţa,44.927299,25.463307
 1471,DB,Târgovişte,"Colegiul Medicilor(Gradinita nr.8)str.N.Iorga, nr.3",44.925848,25.465204
 1472,DB,Târgovişte,"Bl. A3A,bd. Libertăţii",44.927981,25.463403
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1473,DB,Târgovişte,"Bl. A3C,bd. Libertăţii",44.927825,25.463566
 1474,DB,Târgovişte,"Bl. A3E,bd. Libertăţii",44.927726,25.463659
 1475,DB,Târgovişte,"Bl. T2,str. George Coşbuc",44.925269,25.465004
@@ -1559,7 +1538,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1538,DB,Târgovişte,"SC COS SA-Anexă LDS,Şos. Găesti nr. 9-11",44.905137,25.448481
 1539,DB,Târgovişte,"SC Erdemir Romania SRL- Laborator mat.primă,Şos. Găeşti, nr. 18-24",44.910344,25.444155
 1540,DB,Târgovişte,"CANTUP Hotel Nova,str. Arsenalului nr. 14",44.924043,25.460406
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1541,DB,Târgovişte,"ENGIE Romania S.A. DistrigazSud-Retele S.R.L Targoviste,bd.Eroilor,nr.32 A",44.934173,25.439242
 1542,DB,Târgovişte,"Sc RONDOCARTON srl, Târgoviște, str. Laminorului, nr.40",44.921754,25.438447
 1543,DB,Târgovişte,"MALL Dambovita, str. B-dul regele Ferdinand, nr.6, ALA 1",44.911752,25.463607
@@ -1630,7 +1608,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1608,DJ,CRAIOVA,"Str. Constantin Brâncoveanu, bl. 48A",44.334084,23.784036
 1609,DJ,CRAIOVA,"Str. Constantin Brâncoveanu, bl. 53A1, sc1",44.334686,23.784552
 1610,DJ,CRAIOVA,"Str. Constantin Brâncoveanu, bl. 60A, sc1",44.335407,23.786434
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1611,DJ,CRAIOVA,"Str. Nicolae Coculescu, bl. 102B1, sc1",44.339167,23.783056
 1612,DJ,CRAIOVA,"Str. Nicolae Coculescu, nr.18, bl 102B, sc1",44.339177,23.783545
 1613,DJ,CRAIOVA,"Str. Unirii, bl. 2, sc 1",44.319387,23.794246
@@ -1707,7 +1684,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1684,DJ,CRAIOVA,"Str. George Breazul, bl. H15",44.322102,23.826928
 1685,DJ,CRAIOVA,"Str. Desnatui, Bl. A11, sc. 1",44.320865,23.818785
 1686,DJ,CRAIOVA,"Str. Nicolae Julea, Bl. A12, sc.2",44.320797,23.819129
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1687,DJ,CRAIOVA,"Str. Nicolae Julea, Bl. A11, sc.2",44.321033,23.818837
 1688,DJ,CRAIOVA,"Str. Nicolae Julea, Bl. A12, sc.1",44.320991,23.819166
 1689,DJ,CRAIOVA,"Aleea Nicolae Iorga, bl.A37",44.320977,23.821197
@@ -1784,7 +1760,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1760,DJ,CRAIOVA,"Bd. Dacia, Bl.121E",44.342320,23.775595
 1761,DJ,CRAIOVA,"Bd. Dacia, Bl.121C",44.342505,23.776132
 1762,DJ,CRAIOVA,"Bd. Dacia, Bl.120, Sc.1",44.342226,23.777848
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1763,DJ,CRAIOVA,"Bd. Dacia, Bl.120, Sc.2",44.342175,23.778097
 1764,DJ,CRAIOVA,"Str. Ion Anestin, Bl. 95B1, sc.1",44.340086,23.783161
 1765,DJ,CRAIOVA,"Str. Gorunului, Bl.145B, sc.1",44.339167,23.772500
@@ -1861,7 +1836,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1836,GL,Galaţi,"Str. Siderurgiştilor nr. 24, Bl. SD6A, sc.3",45.434144,28.026476
 1837,GL,Galaţi,"Str. Siderurgiştilor nr. 24, Bl. SD6A, sc.4",45.434114,28.026210
 1838,GL,Galaţi,"Str. Siderurgiştilor nr. 24, Bl. SD6C, sc.2",45.434980,28.025372
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1839,GL,Galaţi,"Str. Siderurgiştilor nr. 24, Bl. SD6C, sc.3",45.435182,28.025299
 1840,GL,Galaţi,"Str. Siderurgiştilor nr. 30, Bl. SD4A, sc.2",45.435798,28.024798
 1841,GL,Galaţi,"Str. Siderurgiştilor nr. 30, Bl. SD4A, sc.3",45.435938,28.024650
@@ -1938,7 +1912,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1912,GL,Galaţi,"Micro 39B, Str. Traian Vuia nr. 12, Bl. V3, sc.1",45.455959,28.024036
 1913,GL,Galaţi,"Micro 39B, Str. Traian Vuia nr. 12, Bl. V3, sc.2",45.455953,28.024312
 1914,GL,Galaţi,"Micro 39B, Str. Traian Vuia nr. 24, Bl. V5, sc.1",45.458321,28.022857
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1915,GL,Galaţi,"Micro 39B, Str. Traian Vuia nr. 24, Bl. V5, sc.2",45.458093,28.022860
 1916,GL,Galaţi,"Micro 40, Str. Traian Vuia nr. 50, Bl. J6, sc.1",45.454749,28.025742
 1917,GL,Galaţi,"Micro 39B, Str. Henri Coandă, nr.6, Bl. V4, sc.1",45.455520,28.027556
@@ -1995,7 +1968,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 1968,GR,Giurgiu,"Bl. 32 (Mobilă), Sc. A,BStr. Portului",43.889594,25.966242
 1969,GR,Giurgiu,Bl. B 1 (turn)Str. Tineretului,43.908500,25.972111
 1970,GR,Giurgiu,Bl. B 2 (turn)Str. Tineretului,43.908139,25.972194
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 1971,GR,Giurgiu,"Vama Giurgiu Str. Prieteniei, nr. 1",43.904016,25.989919
 1972,GR,Giurgiu,"Administraţia Zonei Libere Giurgiu S.A.Str. Portului, nr. 1",43.881566,25.972429
 1973,GR,Giurgiu,"SC New Sal SRLstr.Prieteniei, nr. 3",43.908611,25.980556
@@ -2072,7 +2044,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2044,GJ,Oraş Turceni,"Str. Muncii, nr. 19-22, Hotel Marigab",44.681661,23.372070
 2045,GJ,Oraş Ţicleni,"str. Villneuve D’ascq, nr.22, Hotel Sara",44.892221,23.442340
 2046,GJ,Comuna Cătunele,"Sat Valea Perilor, Sediu Primărie",44.843655,22.918726
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2047,GJ,Comuna Fărcăşeşti,"Sat Fărcăşeşti, nr. 72, Sediu Primărie",44.864980,23.213191
 2048,GJ,Comuna Glogova,"Sat Iormăneşti,,Sediu Primărie",44.910710,22.911381
 2049,GJ,Comuna Hurezani,Sediu Primărie,44.800920,23.645810
@@ -2148,7 +2119,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2119,HD,Hunedoara,"str. Avram Iancu, nr. 16-18",45.759308,22.911458
 2120,HD,Petroșani,"str. Crângului, bl. B1",45.411356,23.375111
 2121,HD,Petroșani,"str. Crângului, bl. B3",45.411142,23.375344
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2122,HD,Petroșani,"str. Crângului, bl. B5",45.410794,23.375736
 2123,HD,Petroșani,"str. Aleea Florilor, bl. B3, sc. 4-5",45.411133,23.371800
 2124,HD,Orăștie,"str. Luncii, nr. 18",45.872347,23.213875
@@ -2225,7 +2195,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2195,IS,Iași,Aleea Grădinari nr.6 Bl. H 32,47.153139,27.620611
 2196,IS,Iași,Aleea Grădinari nr.6 Bl. H 32,47.153139,27.620611
 2197,IS,Iași,Str. Grădinari nr. 40 Bl. G 12,47.152917,27.620250
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2198,IS,Iași,Str. Grădinari nr. 40 Bl. G 12,47.152917,27.620250
 2199,IS,Iași,Str. Grădinari nr. 42 Bl. G 11,47.152639,27.621056
 2200,IS,Iași,Str. Grădinari nr. 42 Bl. G 11,47.152639,27.621056
@@ -2302,7 +2271,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2271,IS,Iași,"str. Otilia Cazimir, nr.15",47.158847,27.596992
 2272,IS,Iași,str. Sărărie nr. 187 A,47.181333,27.571203
 2273,IS,Iași,"b-dul Chimiei, nr.4, sc.A",47.152778,27.608361
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2274,IS,Iași,"b-dul Chimiei, nr.4, sc.A",47.152778,27.608361
 2275,IS,Iași,"b-dul Chimiei, nr.4, sc.C",47.152778,27.608361
 2276,IS,Iași,"b-dul Chimiei, nr.4, sc.C",47.152778,27.608361
@@ -2379,7 +2347,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2347,MM,Baia Mare,Str. George Coşbuc nr.11,47.657125,23.563557
 2348,MM,Baia Mare,Str. George Coşbuc nr.25A,47.655958,23.557962
 2349,MM,Baia Mare,Str. George Coşbuc nr. 33,47.655150,23.551633
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2350,MM,Baia Mare,Str. George Coşbuc nr. 37,47.654814,23.550247
 2351,MM,Baia Mare,Str. Gării nr. 12 sc.A,47.645890,23.555665
 2352,MM,Baia Mare,Str. Gării nr. 12 sc.B,47.646023,23.555467
@@ -2455,7 +2422,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2422,MH,Dr. Tr. Severin,"Spitalul Judeţean, Splai Mihai Viteazul nr. 5",44.643548,22.652478
 2423,MH,Orșova,"Fostul sediu B.C.R. - Filiala Orşova, str. Porțile de Fier nr. 3 A",44.723998,22.396848
 2424,MH,Orșova,"Administraţia Finanţelor Publice, str. 1 Decembrie nr.16 B, Orșova",44.725223,22.398683
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2425,MH,"Comuna Gogoșu ColoniaP.F. 2","Porţile de Fier II - Motel Restaurant Colonie, Comuna Gogoșu",44.306863,22.573650
 2426,MH,"Comuna Gogoșu ColoniaP.F. 2","Porţile de Fier II - Bloc Garsoniere Colonie, Comuna Gogoșu",44.306333,22.575243
 2427,MH,"Comuna Gogoșu ColoniaP.F. 2","Porţile de Fier II - Ecluza PF II,Comuna Gogoșu",44.318781,22.567173
@@ -2529,7 +2495,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2495,MS,TARGU-MURES,"PIATA GARII, NR.5C",46.534222,24.550667
 2496,MS,TARGU-MURES,"STR.LIVIU REBREANU, NR.41",46.533806,24.550750
 2497,MS,TARGU-MURES,"STR.GHEORGHE DOJA, NR.60",46.533639,24.551278
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2498,MS,TARGU-MURES,"STR.APADUCTULUI, NR.52",46.562778,24.551472
 2499,MS,SIGHISOARA,"STR.ROZELOR, NR.15",46.233194,24.818250
 2500,MS,SIGHISOARA,"STR.ROZELOR, NR.17",46.232694,24.818139
@@ -2605,7 +2570,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2570,NT,Piatra-Neamţ,S.C. White Lady S.R.L.,46.939098,26.395613
 2571,NT,Piatra-Neamţ,Liceul Spiru Haret,46.934334,26.375040
 2572,NT,Piatra-Neamţ,Centrul Social Pietricica,46.961847,26.377404
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2573,NT,Piatra-Neamţ,S.C. Augsburg S.R.L.,46.939032,26.339614
 2574,NT,Roman,Str. Tineretului (Eroilor)bl.15 A,46.928360,26.930520
 2575,NT,Roman,Str. Tineretului (Eroilor) bl.15 B,46.928360,26.930520
@@ -2682,7 +2646,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2646,SJ,ZALĂU,"str. Simion Bărnuţiu, nr. 67(Spital Judeţean)",47.193173,23.051393
 2647,SJ,ZALĂU,"str. Unirii, nr.19 (Banca Reiffeisen)",47.179967,23.053622
 2648,SJ,ZALĂU,"str. Simion Oros, nr.3(Activ Plaza Mall)",47.179609,23.053605
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2649,SJ,ZALĂU,str. Simion Oros nr. 5 (Piaţa agroalimentară),47.179240,23.052972
 2650,SJ,ZALĂU,"Str. 22 decembrie 1989, nr.9 (Centru de boli rare)",47.177140,23.055095
 2651,SJ,ZALĂU,"str. Piaţa Unirii, nr.13(Clădire de birouri-Complex Manager)",47.177330,23.053574
@@ -2759,7 +2722,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2722,SB,Sibiu,"Str.Reşiţa,Nr.95",45.808502,24.167968
 2723,SB,Sibiu,"B-dul Vasile Milea, FN(Subsol pasaj-Mag.Dumbrava )",45.790689,24.149014
 2724,SB,Sibiu,"Str. Lungă, nr. 62, bloc 103 C, scara B",45.805931,24.145103
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2725,SB,Sibiu,"Hotel Ramada, Str. Emil Cioran, nr. 2",45.790948,24.147894
 2726,SB,Sibiu,"Hotel My Continental, Calea Dumbrăvii,Nr.2-4",45.789792,24.149009
 2727,SB,Sibiu,"Cămin studenţesc Academica, Str. Aurel Decei,Nr.1",45.782741,24.130326
@@ -2836,7 +2798,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2798,SV,Suceava,"Aleea Lalelelor, nr. 15, bl. 105, sc. A",47.642861,26.237528
 2799,SV,Suceava,"Aleea Lalelelor, nr. 15, bl. 105, sc. B",47.643278,26.237060
 2800,SV,Suceava,"Aleea Lalelelor, nr. 15, bl. 105, sc. C",47.643333,26.237000
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2801,SV,Suceava,"Str. Lazăr Vicol, nr. 11, bl. E 35, sc. A",47.642333,26.238639
 2802,SV,Suceava,"Str. Lazăr Vicol, nr. 4, bl. 56, sc. A",47.641889,26.238917
 2803,SV,Suceava,"Str. Lazăr Vicol, nr. 4, bl. 56, sc. B",47.641861,26.238389
@@ -2906,7 +2867,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2867,TM,TIMIȘOARA,"Str. Martir Silviu Mohon, nr.48, bl.144",45.774324,21.234704
 2868,TM,TIMIȘOARA,"Str. Martir Silviu Mohon, nr.50, bl.143",45.774509,21.234831
 2869,TM,TIMIȘOARA,"Str. Remus Răduleț, nr.6, bl 53",45.771910,21.224732
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2870,TM,TIMIȘOARA,str. Rasaritului nr.5 bl 10,45.771389,21.223889
 2871,TM,TIMIȘOARA,"Aleea Speranței nr. 2, bl. 66",45.772958,21.224690
 2872,TM,TIMIȘOARA,str. Rasaritului nr.12 bl 51,45.771490,21.224285
@@ -2983,7 +2943,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 2943,TM,TIMIȘOARA,"Str.Aleea Hotinului, nr.1 bl.14",45.770058,21.218030
 2944,TM,TIMIȘOARA,"Str.Bradul, nr.6 scA,B",45.743560,21.245805
 2945,TM,TIMIȘOARA,"Str.Bradul, nr.6 sc.C",45.743466,21.245479
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 2946,TM,LUGOJ,"Str.Ceahlaului nr1, bl. 23, sc,D",45.691852,21.904415
 2947,TM,LUGOJ,"Str.Ceahlaului nr1, bl. 23, sc,C",45.691371,21.904810
 2948,TM,LUGOJ,"Str.Ceahlaului nr1, bl. 23, sc,B",45.691574,21.904612
@@ -3055,7 +3014,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3014,VN,FOCȘANI,"Str. Ulmului, nr. 5",45.674555,27.176437
 3015,VN,FOCȘANI,"Str. Ulmului, nr. 11",45.674133,27.177114
 3016,VN,FOCȘANI,"Str. Eroilor, nr. 8, bl. D1",45.698997,27.185907
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3017,VN,FOCȘANI,"Str. Eroilor, nr. 8, bl. D1",45.698997,27.185907
 3018,VN,FOCȘANI,"Str. Eroilor, nr. 8, bl. D2",45.698643,27.185784
 3019,VN,FOCȘANI,"Str. Eroilor, nr. 8, bl. D2",45.698643,27.185784
@@ -3132,7 +3090,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3090,PH,Mun. Ploiești,"Hotel Central, b-dul Republicii, nr.1",44.940666,26.023111
 3091,PH,Mun. Ploiești,"B.A.T. str. Laboratorului, nr.17-19",44.948888,25.984888
 3092,PH,Mun. Ploiești,"Bloc de locuit, str. Găgeni, nr.109",44.957166,26.011972
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3093,PH,Mun. Ploiești,"Yazaki, Parc Industrial Ploieşti",44.938472,25.935972
 3094,PH,Mun. Ploiești,"S.C.ROMPETROL WELL SERVICES Str. Clopoţei, nr. 2bis",44.950503,26.043372
 3095,PH,Mun. Ploiești,"Str. Mihai Bravu, nr. 233 S.C.SAINT-GOBAIN ISOVER",44.941466,26.062303
@@ -3206,7 +3163,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3163,PH,Oraş  Sinaia,"S.C Mefin S.A, Calea București FN",45.334392,25.555908
 3164,PH,Oraş  Sinaia,"Locuință private, str. Trandafirilor, nr.1",45.357967,25.536266
 3165,PH,Oraş  Urlati,"str. Soarelui, nr.1, bl.51",44.992308,26.231905
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3166,PH,Oraş  Urlati,"str. 1 Mai, nr.109, bl.3",44.991099,26.233881
 3167,PH,Oraş  Urlati,"Str. Mihai Eminescu, Bloc de locuit",44.995138,26.232944
 3168,PH,Oraş  Urlati,"str. 1 Mai, nr.107, bl.4",44.990969,26.233967
@@ -3280,7 +3236,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3236,TR,Videle,"Bloc CO1, str. Șoseaua Giurgiu, nr.23",44.274160,25.524750
 3237,TR,Videle,"Bloc CO2, str. Șoseaua Giurgiu, nr.23",44.274160,25.524750
 3238,TR,Videle,Str. Republicii,44.274850,25.528050
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3239,TL,Tulcea,"Mun. Tulcea, str. G. Corneliu, nr. 312 bl. A4 sc. A",45.164050,28.795160
 3240,TL,Tulcea,"Mun. Tulcea, str. Viticulturii nr. 20 bl. A 8 sc. A",45.163650,28.792570
 3241,TL,Tulcea,"Mun. Tulcea, str. Viticulturii bl. A 9 sc. A",45.163567,28.793278
@@ -3357,7 +3312,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3312,VL,Oras Baile Govora,"Str. T. Vladimirescu, nr. 75-77",45.079154,24.184858
 3313,VL,Oras Baile Govora,"Str. T. Vladimirescu, nr. 70",45.077653,24.187026
 3314,VL,Oras Baile Govora,"Str. T. Vladimirescu, nr. 80",45.077722,24.186859
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3315,VL,Mun. Dragasani,"Str.Melodiilor, nr. 6, bl, L4, Sc A, Bloc ANL.2003",44.658046,24.261086
 3316,VL,Oras Brezoi,Str.Lotrului nr2- Primaria Brezoi,45.344022,24.244458
 3317,VL,Oras Ocnele Mari,Str. Al. Ioan. Cuza,45.085188,24.306170
@@ -3427,7 +3381,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3381,BIF,Sector 1,"Calea Dorobantilor 134-138 Bl. 11, sc. C",44.456473,26.097206
 3382,BIF,Sector 1,"Calea Dorobantilor 111-131 Bl. 9, sc. D",44.454789,26.097362
 3383,BIF,Sector 1,"Calea Dorobantilor 111-131 Bl. 9, sc. E",44.455897,26.097041
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3384,BIF,Sector 1,"Calea Dorobantilor 102-110 Bl. 2, sc. B",44.454725,26.098195
 3385,BIF,Sector 1,"Calea Dorobantilor 102-110 Bl. 2, sc. C",44.454769,26.098245
 3386,BIF,Sector 1,"Calea Dorobantilor 102-110 Bl. 2, sc. D",44.454773,26.098219
@@ -3501,7 +3454,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3454,BIF,Sector 1,"B-DUL FICUSULUI 20-26 COLEGIUL AGRICOL ""VICESLAVHARNAJ""",44.490616,26.085571
 3455,BIF,Sector 1,Str. ZĂGAZULUI 7 S.C. BAHTCO INVEST S.R.L.,44.477467,26.094102
 3456,BIF,Sector 1,CALEA DOROBANŢI 99 CHERCHEŞ ION LIVIU,44.453448,26.098333
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3457,BIF,Sector 1,"ŞOS. BUCUREŞTI - PLOIEŞTI 172-174 S.C. ACARTA CONSTRUCTS.R.L.corp A",44.516140,26.080774
 3458,BIF,Sector 1,"ŞOS. BUCUREŞTI - PLOIEŞTI 172-174 S.C. ACARTA CONSTRUCTS.R.L.corp B",44.514971,26.081214
 3459,BIF,Sector 1,Str. Frumoasă 30 FRUMOASA OFFICES - S.R.L.,44.448473,26.086218
@@ -3564,7 +3516,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3516,BIF,Sector 2,Al.Teiul Doamnei 4 Bloc 21,44.463701,26.127123
 3517,BIF,Sector 2,Al.Teiul Doamnei 8 Bloc 23,44.463367,26.127323
 3518,BIF,Sector 2,Al.Teiul Doamnei 6 Bloc 22,44.463437,26.127008
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3519,BIF,Sector 2,Al.Teiul Doamnei 10 Bloc 24,44.463152,26.127206
 3520,BIF,Sector 2,Al.Teiul Doamnei 2 Bloc 20,44.463814,26.126857
 3521,BIF,Sector 2,"Aleea Bodeşti 9 Bloc 29 A, sc C",44.440393,26.173994
@@ -3641,7 +3592,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3592,BIF,Sector 2,"Str. Grigore Moisil 6 Bloc 10, sc. B",44.463135,26.119204
 3593,BIF,Sector 2,"Str. Grigore Moisil 8 Bloc 9, sc. C",44.463969,26.118103
 3594,BIF,Sector 2,"Str. Grigore Moisil 8 Bloc 9, sc. E",44.464051,26.118103
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3595,BIF,Sector 2,"Str. Grigore Moisil 8 Bloc 9, sc. F",44.464056,26.118089
 3596,BIF,Sector 2,"Str. Grigore Moisil 4 Bloc 6, sc. 1",44.462678,26.119486
 3597,BIF,Sector 2,"Str. Grigore Moisil 4 Bloc 6, sc. 2",44.462853,26.119487
@@ -3718,7 +3668,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3668,BIF,Sector 2,"Str.Ion Berindei 12 Bloc 60, sc. 1",44.461404,26.131854
 3669,BIF,Sector 2,"Str.Ion Berindei 12 Bloc 60, sc. 2",44.461443,26.131962
 3670,BIF,Sector 2,"Str.Teiul Doamnei 110 Bloc 16, sc. 1",44.463525,26.125506
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3671,BIF,Sector 2,"Str.Teiul Doamnei 108 Bloc 15, sc. 1",44.463011,26.126684
 3672,BIF,Sector 2,"Str.Teiul Doamnei 108 Bloc 15, sc. 2",44.463092,26.126685
 3673,BIF,Sector 2,"Str.Teiul Doamnei 106 Bloc M14, sc. 1",44.462701,26.126815
@@ -3795,7 +3744,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3744,BIF,Sector 2,"Şos. Iancului 47 Bloc 102 C, sc. B",44.442868,26.146001
 3745,BIF,Sector 2,"Şos. Mihai Bravu 2 Bloc 60 B, sc. 2",44.448368,26.125049
 3746,BIF,Sector 2,"Şos. Mihai Bravu 2 Bloc 60 B, sc.3",44.448326,26.125007
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3747,BIF,Sector 2,Şos. Mihai Bravu 37 Bloc P 30 A,44.445900,26.128015
 3748,BIF,Sector 2,Şos. Mihai Bravu 41/4 Bloc 4 bis,44.445205,26.127958
 3749,BIF,Sector 2,"Şos. Mihai Bravu 43 Bloc 4, sc. A",44.446256,26.127371
@@ -3872,7 +3820,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3820,BIF,Sector 2,"B-dul Dacia 150 bloc 150, bloc 25 B",44.443726,26.118387
 3821,BIF,Sector 2,"B-dul Lacul Tei 123 Bloc 4, sc 3",44.463158,26.121766
 3822,BIF,Sector 2,"B-dul Lacul Tei 123 Bloc 4, LK sc 4",44.463072,26.121803
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3823,BIF,Sector 2,"Str. Lăptari Tei 16 Bloc 3A, sc. B",44.463920,26.129446
 3824,BIF,Sector 2,Str. Gheorghe Şerban 7A,44.463860,26.118837
 3825,BIF,Sector 2,Str. Balotului 42 Bloc,44.468001,26.152833
@@ -3949,7 +3896,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3896,BIF,Sector 3,Str. Patrioţilor 3 Bloc PM 17,44.411658,26.164209
 3897,BIF,Sector 3,Str. Petre Tina 5 Bloc L 41,44.432812,26.157274
 3898,BIF,Sector 3,"Str, Prevederii 1 Bloc PM 4",44.410235,26.164943
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3899,BIF,Sector 3,Str. Prevederii 3 Bloc PM 5,44.410223,26.164922
 3900,BIF,Sector 3,Str. Prevederii 5 Bloc PM 11 A,44.409796,26.166205
 3901,BIF,Sector 3,Str. Prevederii 7 Bloc PM 11 B,44.409656,26.166929
@@ -4026,7 +3972,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 3972,BIF,Sector 4,"Sos. Giurgiului 121 Bloc 5, sc.3",44.387396,26.092685
 3973,BIF,Sector 4,"Sos. Giurgiului 121 Bloc 5, sc.4",44.387396,26.092685
 3974,BIF,Sector 4,"Sos. Giurgiului 123 Bloc 4B, sc. 1",44.386761,26.092594
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 3975,BIF,Sector 4,"Sos. Giurgiului 123 Bloc 4B, sc. 2",44.386815,26.092643
 3976,BIF,Sector 4,"Sos. Giurgiului 123 Bloc 4B, sc. 3",44.386894,26.092661
 3977,BIF,Sector 4,"Sos. Giurgiului 123 Bloc 4B, sc. 4",44.387231,26.092575
@@ -4103,7 +4048,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4048,BIF,Sector 4,"Str. Tatulesti 19 Bloc 82, sc.4",44.381580,26.093327
 4049,BIF,Sector 4,"Str. Trestiana 1A Bloc 8A,sc.A",44.412023,26.109846
 4050,BIF,Sector 4,"Str. Trestiana 1A Bloc 8A,sc.B",44.413500,26.106583
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4051,BIF,Sector 4,"Str. Trestiana 1A Bloc 8A,sc.C",44.413463,26.106510
 4052,BIF,Sector 4,"Str. Trestiana 3 Bloc 8B,sc.A",44.413174,26.106972
 4053,BIF,Sector 4,"Str. Trestiana 3 Bloc 8B,sc.B",44.412620,26.107614
@@ -4180,7 +4124,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4124,BIF,Sector 5,Şos.Alexandriei 88 BL. PC 10 SC.1,44.403041,26.056175
 4125,BIF,Sector 5,Şos.Alexandriei 90 BL. L 25 SC.1,44.403059,26.056061
 4126,BIF,Sector 5,Şos.Alexandriei 92 BL. L 26 SC.1,44.402887,26.055594
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4127,BIF,Sector 5,Şos.Alexandriei 96 BL. PC 12 SC.1,44.402581,26.054751
 4128,BIF,Sector 5,Şos.Alexandriei 98 BL. L 27 SC.1,44.402462,26.054531
 4129,BIF,Sector 5,Şos.Alexandriei 100 BL. L 28 SC.1,44.402445,26.054242
@@ -4257,7 +4200,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4200,BIF,Sector 6,"Bd. Iuliu Maniu 18÷20 Bl. 15 A+B, sc. B",44.434760,26.035435
 4201,BIF,Sector 6,"Bd. Iuliu Maniu 51 Bl. 22 B, sc. B",44.434022,26.033659
 4202,BIF,Sector 6,"Bd. Iuliu Maniu 51 Bl. 22 B, sc. C",44.434015,26.033714
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4203,BIF,Sector 6,"Bd. Iuliu Maniu 59 Bl. 10 A, sc. 5",44.433903,26.026368
 4204,BIF,Sector 6,"Bd. Iuliu Maniu 59 Bl.10 A, sc. 6",44.433981,26.026387
 4205,BIF,Sector 6,"Bd. Iuliu Maniu 61 Bloc 8P, sc.2",44.433880,26.023656
@@ -4334,7 +4276,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4276,BIF,Sector 6,"Str. Cupolei 1 Bl. 106, sc. 1",44.433226,26.031981
 4277,BIF,Sector 6,"Str. Cupolei 1 Bl. 106, sc. 2",44.433180,26.032027
 4278,BIF,Sector 6,"Str.Cupolei 1 Bl. 106, sc. 3",44.433106,26.032039
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4279,BIF,Sector 6,"Str.Cupolei 2 Bl. 105, sc.A",44.433398,26.031239
 4280,BIF,Sector 6,"Str.Cupolei 2 Bl. 105, sc.C",44.433144,26.031301
 4281,BIF,Sector 6,"Str. Cupolei 2 Bl. 105, sc.E",44.432972,26.031275
@@ -4411,7 +4352,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4352,BIF,Sector 6,"Al. Masa TĂCERII 4 Bl. B, Sc. 2",44.420644,26.011282
 4353,BIF,Sector 6,"Al. Poarta SĂRUTULUI 2 Bl. I, Sc. 1",44.419611,26.009670
 4354,BIF,Sector 6,"Al. Poarta SĂRUTULUI 2 Bl. I, Sc. 1 a",44.419453,26.010166
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4355,BIF,Sector 6,"Al. Poarta SĂRUTULUI 2 Bl. I, Sc. 2",44.419564,26.010284
 4356,BIF,Sector 6,"Al. Poarta SĂRUTULUI 2 Bl. I, Sc. 2 a",44.419556,26.010915
 4357,BIF,Sector 6,"Al. Poarta SĂRUTULUI 1 Bl. L,sc. 1",44.419946,26.009432
@@ -4487,7 +4427,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4427,BIF,Sector 1,Piata Garii de Nord 1 Ministerul Transporturilor,44.443955,26.077294
 4428,BIF,Sector 1,Piata Garii de Nord 1 St. CF. Buc. Nord,44.447581,26.074813
 4429,BIF,Sector 1,Str. Av. Popisteanu 46 Dir. San. Pub. Ilfov,44.472376,26.056595
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4430,BIF,Sector 1,Str. George Enescu 27 UGIR 93,44.443533,26.097469
 4431,BIF,Sector 1,Str. Londra nr. 16-20 BNR,44.454677,26.093408
 4432,BIF,Sector 1,Str. Luterana 4 SC Buc. Sat. Corp F1,44.440698,26.093064
@@ -4560,7 +4499,6 @@ Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,L
 4499,BIF,Sector 4,Str. Popescu Eremia 27 Scoala 102,44.382641,26.135497
 4500,BIF,Sector 4,Str. Spinis 1 Gradinita nr. 228,44.385396,26.091714
 4501,BIF,Sector 5,Intr. Ferentari 72 Bloc 12A Camin,44.405585,26.074569
-Nr. crt.,Județ,Localitate,"Adresa adăpostului (nume strada, nr.)",Latitudine,Longitudine
 4502,BIF,Sector 5,Str.Baciului 10 Sc. Gimnaziala nr. 134,44.384735,26.084243
 4503,BIF,Sector 5,Str.Garoafei 12 Gradinita nr. 185,44.402181,26.059380
 4504,BIF,Sector 5,Str.Gutuilor 1 Sc. Gimnaziala 131,44.400538,26.053705
